@@ -1,3 +1,4 @@
+# Week 1 (02-05 - 02-09)
 * I was introduced to a project and tools;
 * I was given CERN computer account with an access to lxplus and other computing nodes;
 * I tried out simple Spark, Hadoop and CMSSpark commands;
