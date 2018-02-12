@@ -1,2 +1,2 @@
 # CERNReports
-Weekly CERN reports
+Weekly reports about completed tasks.
